@@ -69,7 +69,7 @@ $ kubectl exec -it pod/nombre_del_pod_de_django -- /bin/bash
 $ minikube service django-service
 ```
 
-> Si carga la página web del sitio y no el panel de acceso añadir /admin en la url.
+> Si carga la página web del sitio y no el panel de acceso, añadir /admin en la url.
 
 
 

@@ -71,7 +71,11 @@ $ minikube service django-service
 
 > Si carga la página web del sitio y no el panel de acceso, añadir /admin en la url.
 
+
 ***
+
+***
+
 
 # Ejemplo de auto escalado HPA
 

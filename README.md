@@ -1,6 +1,6 @@
 # Proyecto Django-cms en Kubernetes (minikube)
-Este proyecto tiene como fin el despliegue del gestor de contenidos django-cms en un escenario kubernetes. Para ello kubernetes creará principalmente un volumen, un pod con postgresql y un pod de django-cms.
-No usar en producción sin modificar/personalizar.
+Este proyecto tiene como fin el despliegue del gestor de contenidos django-cms en un escenario kubernetes. Para ello kubernetes creará principalmente un volumen, un pod con postgresql y un pod de django-cms.  
+No usar en producción sin modificar/personalizar.  
 Los scripts de instalación están adaptados solo para ser ejecutados en Ubuntu 18.04
 
 ## Clonar el repositorio
